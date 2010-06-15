@@ -2,6 +2,8 @@ Release history for JooseX.Class.SimpleConstructor
 
 {{$NEXT}}
 
+        - removed dummy prerequisites
+
 0.02      2010-06-15 07:37
 
         - testing twitter plugin for Dist::Zilla
